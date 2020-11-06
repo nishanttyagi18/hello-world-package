@@ -1,0 +1,23 @@
+{
+  "name": "hello-world-package",
+  "version": "0.0.0-development",
+  "description": "Hello world package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release"
+  },
+  "keywords": [
+    "Hello",
+    "world"
+  ],
+  "author": "Nishant Tyagi",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nishanttyagi18/hello-world-package.git"
+  },
+  "devDependencies": {
+    "semantic-release": "^17.2.2"
+  }
+}
