@@ -1,6 +1,6 @@
 {
   "name": "@nishant18/hello-world-package",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.1",
   "description": "Hello world package",
   "main": "index.js",
   "scripts": {
